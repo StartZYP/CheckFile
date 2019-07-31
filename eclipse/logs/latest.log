@@ -1,0 +1,17 @@
+[19:23:26] [main/INFO]: Setting user: Player223
+[19:23:28] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:23:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:checkfile
+[19:23:37] [Sound Library Loader/INFO]: Sound engine started
+[19:23:38] [Client thread/WARN]: File minecraft:sounds/mob/horse/zombie/hit3.ogg does not exist, cannot add it to event minecraft:mob.horse.zombie.hit
+[19:23:39] [Client thread/WARN]: File minecraft:sounds/random/glass3.ogg does not exist, cannot add it to event minecraft:dig.glass
+[19:23:39] [Client thread/WARN]: File minecraft:sounds/random/glass3.ogg does not exist, cannot add it to event minecraft:game.potion.smash
+[19:23:40] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:23:40] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:23:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:checkfile
+[19:23:40] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:23:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:23:41] [Client thread/WARN]: File minecraft:sounds/mob/horse/zombie/hit3.ogg does not exist, cannot add it to event minecraft:mob.horse.zombie.hit
+[19:23:41] [Sound Library Loader/INFO]: Sound engine started
+[19:23:42] [Client thread/WARN]: File minecraft:sounds/random/glass3.ogg does not exist, cannot add it to event minecraft:dig.glass
+[19:23:42] [Client thread/WARN]: File minecraft:sounds/random/glass3.ogg does not exist, cannot add it to event minecraft:game.potion.smash
+[19:24:42] [Client thread/INFO]: Stopping!
